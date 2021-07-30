@@ -57,7 +57,7 @@ public class MainActivity extends  AppCompatActivity  {
 			@Override
 			public void onClick(View _view) {
 				// best app of the year
-				hi.speak("SA YARDIM COMPERSSİON MY BOTUM", TextToSpeech.QUEUE_ADD, null);
+				hi.speak("amogus", TextToSpeech.QUEUE_ADD, null);
 			}
 		});
 	}
@@ -128,4 +128,4 @@ public class MainActivity extends  AppCompatActivity  {
 		return getResources().getDisplayMetrics().heightPixels;
 	}
 	
-}
+}
